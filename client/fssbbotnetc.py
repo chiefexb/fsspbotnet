@@ -4,9 +4,15 @@ import logging
 import sys
 import time
 from neteria.client import NeteriaClient
-
+from neteria.tools import _Middleware
+class EchoMiddleware(_Middleware):
+    def event_legal(self, cuuid, euuid, event_data):
+	return True
+    def event_execute(self, cuuid, euuid, event_data):
+	print event_data
+	
 # Create a client instance.
-client = NeteriaClient()
+client = NeteriaClient(EchoMiddleware())
 client.listen()
 
 # Discover a Neteria Server.

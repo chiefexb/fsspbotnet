@@ -1,0 +1,702 @@
+INFO     [2016-09-10 17:02:07,871] Listening on port 40080
+INFO     [2016-09-10 17:02:08,873] Listening on port 40080
+INFO     [2016-09-10 17:02:09,875] Listening on port 40080
+INFO     [2016-09-10 17:02:10,878] Listening on port 40080
+INFO     [2016-09-10 17:02:11,881] Listening on port 40080
+INFO     [2016-09-10 17:02:12,883] Listening on port 40080
+INFO     [2016-09-10 17:02:13,885] Listening on port 40080
+INFO     [2016-09-10 17:02:14,888] Listening on port 40080
+INFO     [2016-09-10 17:02:15,891] Listening on port 40080
+INFO     [2016-09-10 17:02:16,894] Listening on port 40080
+INFO     [2016-09-10 17:02:17,896] Listening on port 40080
+INFO     [2016-09-10 17:02:18,899] Listening on port 40080
+INFO     [2016-09-10 17:02:19,901] Listening on port 40080
+INFO     [2016-09-10 17:02:20,904] Listening on port 40080
+INFO     [2016-09-10 17:02:21,906] Listening on port 40080
+INFO     [2016-09-10 17:02:22,909] Listening on port 40080
+DEBUG    [2016-09-10 17:02:23,601] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,602] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,603] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,604] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,604] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,605] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,606] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,608] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,608] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,609] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,610] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,610] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,611] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,611] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,611] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,612] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 17:02:23,627] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,627] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,627] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,628] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,628] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,628] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,629] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,629] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,629] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,630] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,630] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,630] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,631] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,631] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,631] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,632] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,632] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,632] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,633] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,633] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,633] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,634] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,634] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,635] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,634] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,635] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,635] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,636] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,636] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,636] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,636] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,637] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,637] <329adabc-775f-11e6-8099-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 17:02:23,638] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,638] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,638] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,638] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,639] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,639] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,639] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,640] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,640] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,640] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,641] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,641] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,641] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,641] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,642] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,642] <329adabc-775f-11e6-8099-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 17:02:23,643] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,643] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,643] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,644] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,644] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,644] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,645] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,645] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,645] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,646] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,646] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,647] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,647] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,647] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,648] Sending packet
+DEBUG    [2016-09-10 17:02:23,648] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,648] Sending packet
+DEBUG    [2016-09-10 17:02:23,649] Sending packet
+DEBUG    [2016-09-10 17:02:23,649] Sending packet
+DEBUG    [2016-09-10 17:02:23,649] Sending packet
+DEBUG    [2016-09-10 17:02:23,650] Sending packet
+DEBUG    [2016-09-10 17:02:23,650] Sending packet
+DEBUG    [2016-09-10 17:02:23,650] Sending packet
+DEBUG    [2016-09-10 17:02:23,650] Sending packet
+DEBUG    [2016-09-10 17:02:23,651] Sending packet
+DEBUG    [2016-09-10 17:02:23,651] Sending packet
+DEBUG    [2016-09-10 17:02:23,651] Sending packet
+DEBUG    [2016-09-10 17:02:23,651] Sending packet
+DEBUG    [2016-09-10 17:02:23,652] Sending packet
+DEBUG    [2016-09-10 17:02:23,652] Sending packet
+DEBUG    [2016-09-10 17:02:23,653] Sending packet
+DEBUG    [2016-09-10 17:02:23,656] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994', u'method': u'REGISTER'}
+DEBUG    [2016-09-10 17:02:23,657] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:23,658] <329adabc-775f-11e6-8099-00259091e994> Register packet received
+DEBUG    [2016-09-10 17:02:23,658] <329adabc-775f-11e6-8099-00259091e994> Registry entries:
+DEBUG    [2016-09-10 17:02:23,658] <329adabc-775f-11e6-8099-00259091e994> 329adabc-775f-11e6-8099-00259091e994 {'host': '10.9.4.10',
+ 'port': 51115,
+ 'time': datetime.datetime(2016, 9, 10, 17, 2, 23, 658242)}
+DEBUG    [2016-09-10 17:02:23,659] Packet processing completed
+DEBUG    [2016-09-10 17:02:23,659] Sending packet
+INFO     [2016-09-10 17:02:23,912] Listening on port 40080
+INFO     [2016-09-10 17:02:24,914] Listening on port 40080
+INFO     [2016-09-10 17:02:25,916] Listening on port 40080
+INFO     [2016-09-10 17:02:26,919] Listening on port 40080
+INFO     [2016-09-10 17:02:27,922] Listening on port 40080
+INFO     [2016-09-10 17:02:28,924] Listening on port 40080
+DEBUG    [2016-09-10 17:02:29,909] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'365d7952-775f-11e6-8099-00259091e994',
+ u'event_data': u'hello',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 0,
+ u'timestamp': u'2016-09-10 17:02:29.907446'}
+DEBUG    [2016-09-10 17:02:29,909] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:29,909] <329adabc-775f-11e6-8099-00259091e994> <euuid:365d7952-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:02:29,910] Not encrypted :<
+WARNING  [2016-09-10 17:02:29,910] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:02:29,910] Packet processing completed
+DEBUG    [2016-09-10 17:02:29,910] Sending packet
+INFO     [2016-09-10 17:02:29,927] Listening on port 40080
+INFO     [2016-09-10 17:02:30,929] Listening on port 40080
+INFO     [2016-09-10 17:02:31,932] Listening on port 40080
+DEBUG    [2016-09-10 17:02:32,012] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'365d7952-775f-11e6-8099-00259091e994',
+ u'event_data': u'hello',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 1,
+ u'timestamp': u'2016-09-10 17:02:29.907446'}
+DEBUG    [2016-09-10 17:02:32,012] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:32,012] <329adabc-775f-11e6-8099-00259091e994> <euuid:365d7952-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:02:32,013] Not encrypted :<
+WARNING  [2016-09-10 17:02:32,013] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:02:32,013] Packet processing completed
+DEBUG    [2016-09-10 17:02:32,013] Sending packet
+INFO     [2016-09-10 17:02:32,935] Listening on port 40080
+INFO     [2016-09-10 17:02:33,937] Listening on port 40080
+DEBUG    [2016-09-10 17:02:34,015] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'365d7952-775f-11e6-8099-00259091e994',
+ u'event_data': u'hello',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 2,
+ u'timestamp': u'2016-09-10 17:02:29.907446'}
+DEBUG    [2016-09-10 17:02:34,015] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:34,015] <329adabc-775f-11e6-8099-00259091e994> <euuid:365d7952-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:02:34,016] Not encrypted :<
+WARNING  [2016-09-10 17:02:34,016] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:02:34,016] Packet processing completed
+DEBUG    [2016-09-10 17:02:34,016] Sending packet
+INFO     [2016-09-10 17:02:34,940] Listening on port 40080
+INFO     [2016-09-10 17:02:35,943] Listening on port 40080
+DEBUG    [2016-09-10 17:02:36,018] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'365d7952-775f-11e6-8099-00259091e994',
+ u'event_data': u'hello',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 3,
+ u'timestamp': u'2016-09-10 17:02:29.907446'}
+DEBUG    [2016-09-10 17:02:36,018] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:36,018] <329adabc-775f-11e6-8099-00259091e994> <euuid:365d7952-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:02:36,019] Not encrypted :<
+WARNING  [2016-09-10 17:02:36,019] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:02:36,019] Packet processing completed
+DEBUG    [2016-09-10 17:02:36,019] Sending packet
+INFO     [2016-09-10 17:02:36,945] Listening on port 40080
+INFO     [2016-09-10 17:02:37,948] Listening on port 40080
+DEBUG    [2016-09-10 17:02:38,021] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'365d7952-775f-11e6-8099-00259091e994',
+ u'event_data': u'hello',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 4,
+ u'timestamp': u'2016-09-10 17:02:29.907446'}
+DEBUG    [2016-09-10 17:02:38,021] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:02:38,021] <329adabc-775f-11e6-8099-00259091e994> <euuid:365d7952-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:02:38,021] Not encrypted :<
+WARNING  [2016-09-10 17:02:38,021] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:02:38,022] Packet processing completed
+DEBUG    [2016-09-10 17:02:38,022] Sending packet
+INFO     [2016-09-10 17:02:38,951] Listening on port 40080
+INFO     [2016-09-10 17:02:39,953] Listening on port 40080
+INFO     [2016-09-10 17:02:40,956] Listening on port 40080
+INFO     [2016-09-10 17:02:41,958] Listening on port 40080
+INFO     [2016-09-10 17:02:42,961] Listening on port 40080
+INFO     [2016-09-10 17:02:43,963] Listening on port 40080
+INFO     [2016-09-10 17:02:44,966] Listening on port 40080
+INFO     [2016-09-10 17:02:45,969] Listening on port 40080
+INFO     [2016-09-10 17:02:46,971] Listening on port 40080
+INFO     [2016-09-10 17:02:47,973] Listening on port 40080
+INFO     [2016-09-10 17:02:48,975] Listening on port 40080
+INFO     [2016-09-10 17:02:49,977] Listening on port 40080
+INFO     [2016-09-10 17:02:50,980] Listening on port 40080
+INFO     [2016-09-10 17:02:51,983] Listening on port 40080
+INFO     [2016-09-10 17:02:52,985] Listening on port 40080
+INFO     [2016-09-10 17:02:53,987] Listening on port 40080
+INFO     [2016-09-10 17:02:54,989] Listening on port 40080
+INFO     [2016-09-10 17:02:55,992] Listening on port 40080
+INFO     [2016-09-10 17:02:56,994] Listening on port 40080
+INFO     [2016-09-10 17:02:57,997] Listening on port 40080
+INFO     [2016-09-10 17:02:58,999] Listening on port 40080
+INFO     [2016-09-10 17:03:00,001] Listening on port 40080
+INFO     [2016-09-10 17:03:01,003] Listening on port 40080
+INFO     [2016-09-10 17:03:02,006] Listening on port 40080
+INFO     [2016-09-10 17:03:03,009] Listening on port 40080
+INFO     [2016-09-10 17:03:04,011] Listening on port 40080
+INFO     [2016-09-10 17:03:05,014] Listening on port 40080
+INFO     [2016-09-10 17:03:06,017] Listening on port 40080
+INFO     [2016-09-10 17:03:07,019] Listening on port 40080
+INFO     [2016-09-10 17:03:08,021] Listening on port 40080
+INFO     [2016-09-10 17:03:09,024] Listening on port 40080
+INFO     [2016-09-10 17:03:10,027] Listening on port 40080
+INFO     [2016-09-10 17:03:11,030] Listening on port 40080
+INFO     [2016-09-10 17:03:12,033] Listening on port 40080
+INFO     [2016-09-10 17:03:13,035] Listening on port 40080
+INFO     [2016-09-10 17:03:14,038] Listening on port 40080
+INFO     [2016-09-10 17:03:15,040] Listening on port 40080
+INFO     [2016-09-10 17:03:16,043] Listening on port 40080
+INFO     [2016-09-10 17:03:17,045] Listening on port 40080
+INFO     [2016-09-10 17:03:18,048] Listening on port 40080
+INFO     [2016-09-10 17:03:19,050] Listening on port 40080
+INFO     [2016-09-10 17:03:20,053] Listening on port 40080
+INFO     [2016-09-10 17:03:21,055] Listening on port 40080
+INFO     [2016-09-10 17:03:22,057] Listening on port 40080
+INFO     [2016-09-10 17:03:23,060] Listening on port 40080
+INFO     [2016-09-10 17:03:24,062] Listening on port 40080
+INFO     [2016-09-10 17:03:25,065] Listening on port 40080
+INFO     [2016-09-10 17:03:26,067] Listening on port 40080
+INFO     [2016-09-10 17:03:27,071] Listening on port 40080
+INFO     [2016-09-10 17:03:28,073] Listening on port 40080
+INFO     [2016-09-10 17:03:29,076] Listening on port 40080
+INFO     [2016-09-10 17:03:30,079] Listening on port 40080
+INFO     [2016-09-10 17:03:31,082] Listening on port 40080
+INFO     [2016-09-10 17:03:32,085] Listening on port 40080
+INFO     [2016-09-10 17:03:33,088] Listening on port 40080
+INFO     [2016-09-10 17:03:34,091] Listening on port 40080
+INFO     [2016-09-10 17:03:35,093] Listening on port 40080
+INFO     [2016-09-10 17:03:36,096] Listening on port 40080
+INFO     [2016-09-10 17:03:37,100] Listening on port 40080
+DEBUG    [2016-09-10 17:03:37,923] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'5ee7b61c-775f-11e6-8099-00259091e994',
+ u'event_data': u'!',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 0,
+ u'timestamp': u'2016-09-10 17:03:37.922282'}
+DEBUG    [2016-09-10 17:03:37,923] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:03:37,924] <329adabc-775f-11e6-8099-00259091e994> <euuid:5ee7b61c-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:03:37,924] Not encrypted :<
+WARNING  [2016-09-10 17:03:37,924] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:03:37,924] Packet processing completed
+DEBUG    [2016-09-10 17:03:37,925] Sending packet
+INFO     [2016-09-10 17:03:38,103] Listening on port 40080
+INFO     [2016-09-10 17:03:39,106] Listening on port 40080
+DEBUG    [2016-09-10 17:03:40,102] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'5ee7b61c-775f-11e6-8099-00259091e994',
+ u'event_data': u'!',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 1,
+ u'timestamp': u'2016-09-10 17:03:37.922282'}
+DEBUG    [2016-09-10 17:03:40,103] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:03:40,103] <329adabc-775f-11e6-8099-00259091e994> <euuid:5ee7b61c-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:03:40,103] Not encrypted :<
+WARNING  [2016-09-10 17:03:40,104] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:03:40,104] Packet processing completed
+DEBUG    [2016-09-10 17:03:40,104] Sending packet
+INFO     [2016-09-10 17:03:40,108] Listening on port 40080
+INFO     [2016-09-10 17:03:41,111] Listening on port 40080
+DEBUG    [2016-09-10 17:03:42,105] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'5ee7b61c-775f-11e6-8099-00259091e994',
+ u'event_data': u'!',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 2,
+ u'timestamp': u'2016-09-10 17:03:37.922282'}
+DEBUG    [2016-09-10 17:03:42,105] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:03:42,106] <329adabc-775f-11e6-8099-00259091e994> <euuid:5ee7b61c-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:03:42,106] Not encrypted :<
+WARNING  [2016-09-10 17:03:42,106] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:03:42,106] Packet processing completed
+DEBUG    [2016-09-10 17:03:42,107] Sending packet
+INFO     [2016-09-10 17:03:42,114] Listening on port 40080
+INFO     [2016-09-10 17:03:43,117] Listening on port 40080
+DEBUG    [2016-09-10 17:03:44,108] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'5ee7b61c-775f-11e6-8099-00259091e994',
+ u'event_data': u'!',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 3,
+ u'timestamp': u'2016-09-10 17:03:37.922282'}
+DEBUG    [2016-09-10 17:03:44,109] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:03:44,109] <329adabc-775f-11e6-8099-00259091e994> <euuid:5ee7b61c-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:03:44,109] Not encrypted :<
+WARNING  [2016-09-10 17:03:44,109] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:03:44,110] Packet processing completed
+DEBUG    [2016-09-10 17:03:44,110] Sending packet
+INFO     [2016-09-10 17:03:44,119] Listening on port 40080
+INFO     [2016-09-10 17:03:45,122] Listening on port 40080
+DEBUG    [2016-09-10 17:03:46,112] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'5ee7b61c-775f-11e6-8099-00259091e994',
+ u'event_data': u'!',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 4,
+ u'timestamp': u'2016-09-10 17:03:37.922282'}
+DEBUG    [2016-09-10 17:03:46,112] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:03:46,112] <329adabc-775f-11e6-8099-00259091e994> <euuid:5ee7b61c-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:03:46,113] Not encrypted :<
+WARNING  [2016-09-10 17:03:46,113] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:03:46,113] Packet processing completed
+DEBUG    [2016-09-10 17:03:46,113] Sending packet
+INFO     [2016-09-10 17:03:46,124] Listening on port 40080
+INFO     [2016-09-10 17:03:47,130] Listening on port 40080
+INFO     [2016-09-10 17:03:48,132] Listening on port 40080
+INFO     [2016-09-10 17:03:49,135] Listening on port 40080
+INFO     [2016-09-10 17:03:50,137] Listening on port 40080
+INFO     [2016-09-10 17:03:51,139] Listening on port 40080
+INFO     [2016-09-10 17:03:52,142] Listening on port 40080
+INFO     [2016-09-10 17:03:53,145] Listening on port 40080
+INFO     [2016-09-10 17:03:54,147] Listening on port 40080
+INFO     [2016-09-10 17:03:55,149] Listening on port 40080
+INFO     [2016-09-10 17:03:56,151] Listening on port 40080
+INFO     [2016-09-10 17:03:57,153] Listening on port 40080
+INFO     [2016-09-10 17:03:58,156] Listening on port 40080
+INFO     [2016-09-10 17:03:59,158] Listening on port 40080
+INFO     [2016-09-10 17:04:00,161] Listening on port 40080
+INFO     [2016-09-10 17:04:01,163] Listening on port 40080
+INFO     [2016-09-10 17:04:02,166] Listening on port 40080
+INFO     [2016-09-10 17:04:03,168] Listening on port 40080
+INFO     [2016-09-10 17:04:04,170] Listening on port 40080
+INFO     [2016-09-10 17:04:05,173] Listening on port 40080
+INFO     [2016-09-10 17:04:06,175] Listening on port 40080
+INFO     [2016-09-10 17:04:07,178] Listening on port 40080
+INFO     [2016-09-10 17:04:08,181] Listening on port 40080
+INFO     [2016-09-10 17:04:09,184] Listening on port 40080
+INFO     [2016-09-10 17:04:10,186] Listening on port 40080
+DEBUG    [2016-09-10 17:04:10,516] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'7254dbda-775f-11e6-8099-00259091e994',
+ u'event_data': u'\x1b[A',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 0,
+ u'timestamp': u'2016-09-10 17:04:10.514298'}
+DEBUG    [2016-09-10 17:04:10,516] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:04:10,516] <329adabc-775f-11e6-8099-00259091e994> <euuid:7254dbda-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:04:10,516] Not encrypted :<
+WARNING  [2016-09-10 17:04:10,517] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:04:10,517] Packet processing completed
+DEBUG    [2016-09-10 17:04:10,517] Sending packet
+INFO     [2016-09-10 17:04:11,189] Listening on port 40080
+INFO     [2016-09-10 17:04:12,191] Listening on port 40080
+DEBUG    [2016-09-10 17:04:12,546] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'7254dbda-775f-11e6-8099-00259091e994',
+ u'event_data': u'\x1b[A',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 1,
+ u'timestamp': u'2016-09-10 17:04:10.514298'}
+DEBUG    [2016-09-10 17:04:12,547] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:04:12,547] <329adabc-775f-11e6-8099-00259091e994> <euuid:7254dbda-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:04:12,547] Not encrypted :<
+WARNING  [2016-09-10 17:04:12,548] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:04:12,548] Packet processing completed
+DEBUG    [2016-09-10 17:04:12,548] Sending packet
+INFO     [2016-09-10 17:04:13,194] Listening on port 40080
+INFO     [2016-09-10 17:04:14,197] Listening on port 40080
+DEBUG    [2016-09-10 17:04:14,550] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'7254dbda-775f-11e6-8099-00259091e994',
+ u'event_data': u'\x1b[A',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 2,
+ u'timestamp': u'2016-09-10 17:04:10.514298'}
+DEBUG    [2016-09-10 17:04:14,550] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:04:14,550] <329adabc-775f-11e6-8099-00259091e994> <euuid:7254dbda-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:04:14,550] Not encrypted :<
+WARNING  [2016-09-10 17:04:14,551] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:04:14,551] Packet processing completed
+DEBUG    [2016-09-10 17:04:14,551] Sending packet
+INFO     [2016-09-10 17:04:15,199] Listening on port 40080
+INFO     [2016-09-10 17:04:16,202] Listening on port 40080
+DEBUG    [2016-09-10 17:04:16,553] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'7254dbda-775f-11e6-8099-00259091e994',
+ u'event_data': u'\x1b[A',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 3,
+ u'timestamp': u'2016-09-10 17:04:10.514298'}
+DEBUG    [2016-09-10 17:04:16,553] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:04:16,553] <329adabc-775f-11e6-8099-00259091e994> <euuid:7254dbda-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:04:16,554] Not encrypted :<
+WARNING  [2016-09-10 17:04:16,554] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:04:16,554] Packet processing completed
+DEBUG    [2016-09-10 17:04:16,554] Sending packet
+INFO     [2016-09-10 17:04:17,205] Listening on port 40080
+INFO     [2016-09-10 17:04:18,207] Listening on port 40080
+DEBUG    [2016-09-10 17:04:18,556] Packet received: {u'cuuid': u'329adabc-775f-11e6-8099-00259091e994',
+ u'euuid': u'7254dbda-775f-11e6-8099-00259091e994',
+ u'event_data': u'\x1b[A',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 4,
+ u'timestamp': u'2016-09-10 17:04:10.514298'}
+DEBUG    [2016-09-10 17:04:18,556] <329adabc-775f-11e6-8099-00259091e994> Client is not registered
+DEBUG    [2016-09-10 17:04:18,556] <329adabc-775f-11e6-8099-00259091e994> <euuid:7254dbda-775f-11e6-8099-00259091e994> Event message received
+DEBUG    [2016-09-10 17:04:18,557] Not encrypted :<
+WARNING  [2016-09-10 17:04:18,557] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+DEBUG    [2016-09-10 17:04:18,557] Packet processing completed
+DEBUG    [2016-09-10 17:04:18,557] Sending packet
+INFO     [2016-09-10 17:04:19,210] Listening on port 40080
+INFO     [2016-09-10 17:04:20,213] Listening on port 40080
+INFO     [2016-09-10 17:04:21,215] Listening on port 40080
+INFO     [2016-09-10 17:04:22,218] Listening on port 40080
+INFO     [2016-09-10 17:04:23,220] Listening on port 40080
+INFO     [2016-09-10 17:04:24,223] Listening on port 40080
+INFO     [2016-09-10 17:04:25,225] Listening on port 40080
+INFO     [2016-09-10 17:04:26,226] Listening on port 40080
+INFO     [2016-09-10 17:04:27,228] Listening on port 40080
+INFO     [2016-09-10 17:04:28,230] Listening on port 40080
+INFO     [2016-09-10 17:04:29,232] Listening on port 40080
+INFO     [2016-09-10 17:04:30,235] Listening on port 40080
+INFO     [2016-09-10 17:04:31,237] Listening on port 40080
+INFO     [2016-09-10 17:04:32,239] Listening on port 40080
+INFO     [2016-09-10 17:04:33,241] Listening on port 40080
+INFO     [2016-09-10 17:04:34,243] Listening on port 40080
+INFO     [2016-09-10 17:04:35,245] Listening on port 40080
+INFO     [2016-09-10 17:04:36,247] Listening on port 40080
+INFO     [2016-09-10 17:04:37,249] Listening on port 40080
+INFO     [2016-09-10 17:04:38,251] Listening on port 40080
+INFO     [2016-09-10 17:04:39,254] Listening on port 40080
+INFO     [2016-09-10 17:04:40,256] Listening on port 40080
+INFO     [2016-09-10 17:04:41,258] Listening on port 40080
+INFO     [2016-09-10 17:04:42,260] Listening on port 40080
+INFO     [2016-09-10 17:04:43,262] Listening on port 40080
+INFO     [2016-09-10 17:04:44,264] Listening on port 40080
+INFO     [2016-09-10 17:04:45,266] Listening on port 40080
+INFO     [2016-09-10 17:04:46,269] Listening on port 40080
+INFO     [2016-09-10 17:04:47,271] Listening on port 40080
+INFO     [2016-09-10 17:04:48,273] Listening on port 40080
+INFO     [2016-09-10 17:04:49,275] Listening on port 40080
+INFO     [2016-09-10 17:04:50,278] Listening on port 40080
+INFO     [2016-09-10 17:04:51,280] Listening on port 40080
+INFO     [2016-09-10 17:04:52,282] Listening on port 40080
+INFO     [2016-09-10 17:04:53,284] Listening on port 40080
+INFO     [2016-09-10 17:04:54,286] Listening on port 40080
+INFO     [2016-09-10 17:04:55,288] Listening on port 40080
+INFO     [2016-09-10 17:04:56,290] Listening on port 40080
+INFO     [2016-09-10 17:04:57,292] Listening on port 40080
+INFO     [2016-09-10 17:04:58,294] Listening on port 40080
+INFO     [2016-09-10 17:04:59,297] Listening on port 40080
+INFO     [2016-09-10 17:05:00,299] Listening on port 40080
+INFO     [2016-09-10 17:05:01,301] Listening on port 40080
+INFO     [2016-09-10 17:05:02,303] Listening on port 40080
+INFO     [2016-09-10 17:05:03,305] Listening on port 40080
+INFO     [2016-09-10 17:05:04,307] Listening on port 40080
+INFO     [2016-09-10 17:05:05,309] Listening on port 40080
+INFO     [2016-09-10 17:05:06,311] Listening on port 40080
+INFO     [2016-09-10 17:05:07,314] Listening on port 40080
+INFO     [2016-09-10 17:05:08,316] Listening on port 40080
+INFO     [2016-09-10 17:05:09,318] Listening on port 40080
+INFO     [2016-09-10 17:05:10,321] Listening on port 40080
+INFO     [2016-09-10 17:05:11,323] Listening on port 40080
+INFO     [2016-09-10 17:05:12,325] Listening on port 40080
+INFO     [2016-09-10 17:05:13,328] Listening on port 40080
+INFO     [2016-09-10 17:05:14,330] Listening on port 40080
+INFO     [2016-09-10 17:05:15,332] Listening on port 40080
+INFO     [2016-09-10 17:05:16,334] Listening on port 40080
+INFO     [2016-09-10 17:05:17,337] Listening on port 40080
+INFO     [2016-09-10 17:05:18,339] Listening on port 40080
+INFO     [2016-09-10 17:05:19,341] Listening on port 40080
+INFO     [2016-09-10 17:05:20,343] Listening on port 40080
+INFO     [2016-09-10 17:05:21,345] Listening on port 40080
+INFO     [2016-09-10 17:05:22,348] Listening on port 40080
+INFO     [2016-09-10 17:05:23,350] Listening on port 40080
+INFO     [2016-09-10 17:05:24,352] Listening on port 40080
+INFO     [2016-09-10 17:05:25,354] Listening on port 40080
+INFO     [2016-09-10 17:05:26,357] Listening on port 40080
+INFO     [2016-09-10 17:05:27,359] Listening on port 40080
+INFO     [2016-09-10 17:05:28,361] Listening on port 40080
+INFO     [2016-09-10 17:05:29,363] Listening on port 40080
+INFO     [2016-09-10 17:05:30,365] Listening on port 40080
+INFO     [2016-09-10 17:05:31,367] Listening on port 40080
+INFO     [2016-09-10 17:05:32,370] Listening on port 40080
+INFO     [2016-09-10 17:05:33,372] Listening on port 40080
+INFO     [2016-09-10 17:05:34,374] Listening on port 40080
+INFO     [2016-09-10 17:05:35,376] Listening on port 40080
+INFO     [2016-09-10 17:05:36,378] Listening on port 40080
+INFO     [2016-09-10 17:05:37,380] Listening on port 40080
+INFO     [2016-09-10 17:05:38,383] Listening on port 40080
+INFO     [2016-09-10 17:05:39,385] Listening on port 40080
+INFO     [2016-09-10 17:05:40,387] Listening on port 40080
+INFO     [2016-09-10 17:05:41,389] Listening on port 40080
+INFO     [2016-09-10 17:05:42,391] Listening on port 40080
+INFO     [2016-09-10 17:05:43,393] Listening on port 40080
+INFO     [2016-09-10 17:05:44,396] Listening on port 40080
+INFO     [2016-09-10 17:05:45,398] Listening on port 40080
+INFO     [2016-09-10 17:05:46,401] Listening on port 40080
+INFO     [2016-09-10 17:05:47,403] Listening on port 40080
+INFO     [2016-09-10 17:05:48,406] Listening on port 40080
+INFO     [2016-09-10 17:05:49,409] Listening on port 40080
+INFO     [2016-09-10 17:05:50,411] Listening on port 40080
+INFO     [2016-09-10 17:05:51,414] Listening on port 40080
+INFO     [2016-09-10 17:05:52,416] Listening on port 40080
+INFO     [2016-09-10 17:05:53,421] Listening on port 40080
+INFO     [2016-09-10 17:05:54,423] Listening on port 40080
+INFO     [2016-09-10 17:05:55,425] Listening on port 40080
+INFO     [2016-09-10 17:05:56,428] Listening on port 40080
+INFO     [2016-09-10 17:05:57,430] Listening on port 40080
+INFO     [2016-09-10 17:05:58,433] Listening on port 40080
+INFO     [2016-09-10 17:05:59,436] Listening on port 40080
+INFO     [2016-09-10 17:06:00,438] Listening on port 40080
+INFO     [2016-09-10 17:06:01,440] Listening on port 40080
+INFO     [2016-09-10 17:06:02,443] Listening on port 40080
+INFO     [2016-09-10 17:06:03,445] Listening on port 40080
+INFO     [2016-09-10 17:06:04,447] Listening on port 40080
+INFO     [2016-09-10 17:06:05,449] Listening on port 40080
+INFO     [2016-09-10 17:06:06,452] Listening on port 40080
+INFO     [2016-09-10 17:06:07,454] Listening on port 40080
+INFO     [2016-09-10 17:06:08,456] Listening on port 40080
+INFO     [2016-09-10 17:06:09,458] Listening on port 40080
+INFO     [2016-09-10 17:06:10,460] Listening on port 40080
+INFO     [2016-09-10 17:06:11,462] Listening on port 40080
+INFO     [2016-09-10 17:06:12,464] Listening on port 40080
+INFO     [2016-09-10 17:06:13,467] Listening on port 40080
+INFO     [2016-09-10 17:06:14,469] Listening on port 40080
+INFO     [2016-09-10 17:06:15,471] Listening on port 40080
+INFO     [2016-09-10 17:06:16,473] Listening on port 40080
+INFO     [2016-09-10 17:06:17,475] Listening on port 40080
+INFO     [2016-09-10 17:06:18,477] Listening on port 40080
+INFO     [2016-09-10 17:06:19,479] Listening on port 40080
+INFO     [2016-09-10 17:06:20,482] Listening on port 40080
+INFO     [2016-09-10 17:06:21,484] Listening on port 40080
+INFO     [2016-09-10 17:06:22,487] Listening on port 40080
+INFO     [2016-09-10 17:06:23,489] Listening on port 40080
+INFO     [2016-09-10 17:06:24,491] Listening on port 40080
+INFO     [2016-09-10 17:06:25,493] Listening on port 40080
+INFO     [2016-09-10 17:06:26,496] Listening on port 40080
+INFO     [2016-09-10 17:06:27,498] Listening on port 40080
+INFO     [2016-09-10 17:06:28,500] Listening on port 40080
+INFO     [2016-09-10 17:06:29,503] Listening on port 40080
+INFO     [2016-09-10 17:06:30,505] Listening on port 40080
+INFO     [2016-09-10 17:06:31,507] Listening on port 40080
+INFO     [2016-09-10 17:06:32,510] Listening on port 40080
+INFO     [2016-09-10 17:06:33,512] Listening on port 40080
+INFO     [2016-09-10 17:06:34,514] Listening on port 40080
+INFO     [2016-09-10 17:06:35,517] Listening on port 40080
+INFO     [2016-09-10 17:06:36,519] Listening on port 40080
+INFO     [2016-09-10 17:06:37,521] Listening on port 40080
+WARNING  [2016-09-10 17:10:07,969] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:10,169] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:12,171] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:13,361] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:14,175] <329adabc-775f-11e6-8099-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:20,068] <4ca2f1be-7760-11e6-b40e-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:22,178] <4ca2f1be-7760-11e6-b40e-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:24,181] <4ca2f1be-7760-11e6-b40e-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:26,184] <4ca2f1be-7760-11e6-b40e-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:28,187] <4ca2f1be-7760-11e6-b40e-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:10:43,329] <4ca2f1be-7760-11e6-b40e-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:16,414] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:18,557] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:20,561] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:22,563] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:24,566] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:37,251] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:39,386] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:41,389] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:43,392] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+WARNING  [2016-09-10 17:12:45,396] <91682170-7760-11e6-80f3-00259091e994> Sending BYE EVENT: Client not registered.
+INFO     [2016-09-10 17:18:30,307] Listening on port 40080
+INFO     [2016-09-10 17:18:31,309] Listening on port 40080
+INFO     [2016-09-10 17:18:32,311] Listening on port 40080
+INFO     [2016-09-10 17:18:33,313] Listening on port 40080
+INFO     [2016-09-10 17:18:34,315] Listening on port 40080
+INFO     [2016-09-10 17:18:35,317] Listening on port 40080
+INFO     [2016-09-10 17:18:36,320] Listening on port 40080
+INFO     [2016-09-10 17:18:37,322] Listening on port 40080
+INFO     [2016-09-10 17:18:38,325] Listening on port 40080
+INFO     [2016-09-10 17:18:39,327] Listening on port 40080
+INFO     [2016-09-10 17:18:40,329] Listening on port 40080
+INFO     [2016-09-10 17:18:41,331] Listening on port 40080
+INFO     [2016-09-10 17:18:42,334] Listening on port 40080
+INFO     [2016-09-10 17:18:43,336] Listening on port 40080
+INFO     [2016-09-10 17:18:44,338] Listening on port 40080
+INFO     [2016-09-10 17:18:45,340] Listening on port 40080
+INFO     [2016-09-10 18:19:24,146] Listening on port 40080
+DEBUG    [2016-09-10 18:19:44,019] Packet received: {u'cuuid': u'008284f2-776a-11e6-a93c-00259091e994',
+ u'method': u'OHAI',
+ u'version': u'1.0.2'}
+DEBUG    [2016-09-10 18:19:44,019] <008284f2-776a-11e6-a93c-00259091e994> Client is not registered
+DEBUG    [2016-09-10 18:19:44,019] <008284f2-776a-11e6-a93c-00259091e994> Autodiscover packet received
+DEBUG    [2016-09-10 18:19:44,019] <008284f2-776a-11e6-a93c-00259091e994> Client version matches server version.
+DEBUG    [2016-09-10 18:19:44,019] Packet processing completed
+DEBUG    [2016-09-10 18:19:44,019] Sending packet
+DEBUG    [2016-09-10 18:19:44,020] Packet received: {u'cuuid': u'008284f2-776a-11e6-a93c-00259091e994', u'method': u'REGISTER'}
+DEBUG    [2016-09-10 18:19:44,020] <008284f2-776a-11e6-a93c-00259091e994> Client is not registered
+DEBUG    [2016-09-10 18:19:44,020] <008284f2-776a-11e6-a93c-00259091e994> Register packet received
+DEBUG    [2016-09-10 18:19:44,020] <008284f2-776a-11e6-a93c-00259091e994> Registry entries:
+DEBUG    [2016-09-10 18:19:44,021] <008284f2-776a-11e6-a93c-00259091e994> 008284f2-776a-11e6-a93c-00259091e994 {'host': '10.9.4.10',
+ 'port': 54221,
+ 'time': datetime.datetime(2016, 9, 10, 18, 19, 44, 20876)}
+DEBUG    [2016-09-10 18:19:44,021] Packet processing completed
+DEBUG    [2016-09-10 18:19:44,021] Sending packet
+DEBUG    [2016-09-10 18:20:01,245] Packet received: {u'cuuid': u'008284f2-776a-11e6-a93c-00259091e994',
+ u'euuid': u'0ac729cc-776a-11e6-a93c-00259091e994',
+ u'event_data': u'hello',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 0,
+ u'timestamp': u'2016-09-10 18:20:01.244324'}
+DEBUG    [2016-09-10 18:20:01,245] <008284f2-776a-11e6-a93c-00259091e994> Client is currently registered
+DEBUG    [2016-09-10 18:20:01,245] <008284f2-776a-11e6-a93c-00259091e994> <euuid:0ac729cc-776a-11e6-a93c-00259091e994> Event message received
+DEBUG    [2016-09-10 18:20:01,245] Not encrypted :<
+DEBUG    [2016-09-10 18:20:01,245] <008284f2-776a-11e6-a93c-00259091e994> <euuid:0ac729cc-776a-11e6-a93c-00259091e994> Currently processing events: {u'0ac729cc-776a-11e6-a93c-00259091e994': 0}
+DEBUG    [2016-09-10 18:20:01,245] <008284f2-776a-11e6-a93c-00259091e994> <euuid:0ac729cc-776a-11e6-a93c-00259091e994> New event being processed
+DEBUG    [2016-09-10 18:20:01,245] <008284f2-776a-11e6-a93c-00259091e994> <euuid:0ac729cc-776a-11e6-a93c-00259091e994> Event Data: u'hello'
+DEBUG    [2016-09-10 18:20:01,246] <008284f2-776a-11e6-a93c-00259091e994> <euuid:0ac729cc-776a-11e6-a93c-00259091e994> Event LEGAL. Sending judgement to client.
+DEBUG    [2016-09-10 18:20:01,246] Packet processing completed
+DEBUG    [2016-09-10 18:20:01,246] Sending packet
+DEBUG    [2016-09-10 18:20:01,247] Packet received: {u'cuuid': u'008284f2-776a-11e6-a93c-00259091e994',
+ u'euuid': u'0ac729cc-776a-11e6-a93c-00259091e994',
+ u'method': u'OK EVENT'}
+DEBUG    [2016-09-10 18:20:01,247] <008284f2-776a-11e6-a93c-00259091e994> Client is currently registered
+DEBUG    [2016-09-10 18:20:01,247] <008284f2-776a-11e6-a93c-00259091e994> <euuid:0ac729cc-776a-11e6-a93c-00259091e994> Event confirmation message received
+DEBUG    [2016-09-10 18:20:01,248] Packet processing completed
+DEBUG    [2016-09-10 18:20:35,258] Packet received: {u'cuuid': u'008284f2-776a-11e6-a93c-00259091e994',
+ u'euuid': u'1f0d2134-776a-11e6-a93c-00259091e994',
+ u'event_data': u'help',
+ u'method': u'EVENT',
+ u'priority': u'normal',
+ u'retry': 0,
+ u'timestamp': u'2016-09-10 18:20:35.257368'}
+DEBUG    [2016-09-10 18:20:35,259] <008284f2-776a-11e6-a93c-00259091e994> Client is currently registered
+DEBUG    [2016-09-10 18:20:35,259] <008284f2-776a-11e6-a93c-00259091e994> <euuid:1f0d2134-776a-11e6-a93c-00259091e994> Event message received
+DEBUG    [2016-09-10 18:20:35,259] Not encrypted :<
+DEBUG    [2016-09-10 18:20:35,260] <008284f2-776a-11e6-a93c-00259091e994> <euuid:1f0d2134-776a-11e6-a93c-00259091e994> Currently processing events: {u'1f0d2134-776a-11e6-a93c-00259091e994': 0}
+DEBUG    [2016-09-10 18:20:35,260] <008284f2-776a-11e6-a93c-00259091e994> <euuid:1f0d2134-776a-11e6-a93c-00259091e994> New event being processed
+DEBUG    [2016-09-10 18:20:35,260] <008284f2-776a-11e6-a93c-00259091e994> <euuid:1f0d2134-776a-11e6-a93c-00259091e994> Event Data: u'help'
+DEBUG    [2016-09-10 18:20:35,260] <008284f2-776a-11e6-a93c-00259091e994> <euuid:1f0d2134-776a-11e6-a93c-00259091e994> Event LEGAL. Sending judgement to client.
+DEBUG    [2016-09-10 18:20:35,261] Packet processing completed
+DEBUG    [2016-09-10 18:20:35,261] Sending packet
+DEBUG    [2016-09-10 18:20:35,263] Packet received: {u'cuuid': u'008284f2-776a-11e6-a93c-00259091e994',
+ u'euuid': u'1f0d2134-776a-11e6-a93c-00259091e994',
+ u'method': u'OK EVENT'}
+DEBUG    [2016-09-10 18:20:35,263] <008284f2-776a-11e6-a93c-00259091e994> Client is currently registered
+DEBUG    [2016-09-10 18:20:35,263] <008284f2-776a-11e6-a93c-00259091e994> <euuid:1f0d2134-776a-11e6-a93c-00259091e994> Event confirmation message received
+DEBUG    [2016-09-10 18:20:35,264] Packet processing completed
+INFO     [2016-09-10 18:39:17,015] Listening on port 40080
