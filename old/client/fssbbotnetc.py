@@ -12,7 +12,7 @@ class EchoMiddleware(_Middleware):
 	print event_data
 	
 # Create a client instance.
-client = NeteriaClient()
+client = NeteriaClient(EchoMiddleware())
 client.listen()
 
 # Discover a Neteria Server.
